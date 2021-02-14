@@ -1,0 +1,22 @@
+body{
+  background-color: #888;
+
+}
+.container{
+  width:800px;
+  margin:auto
+}
+.header.navbar{
+  background-color: #252f31;
+  color:#fff;
+   text-transform:uppercase;
+}
+.header.navbar ul {
+  list-style: none;
+  padding_left: 0;
+  overflow: hidden;
+  float: right;
+}
+.header.navbar ul li{
+  float:left ; padding: 10px
+}
